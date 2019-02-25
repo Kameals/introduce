@@ -24,7 +24,7 @@ EC2、RDS、route53等を使って運用してみた経験はありますが、V
 5。crawling, scraping
 
 phantomjs,casperjs等のヘッドレスブラウザを使って必要な情報を取得する事は可能ですが、最近出たヘッドレスchromeはまだ使った事がないです。
-最近はpythonとchrome headless browserを使ってみてます。
+最近はpythonとseleniumとchrome headless browserを使ってみてます。
 
 6。API
 
